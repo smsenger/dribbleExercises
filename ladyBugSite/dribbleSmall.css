@@ -1,0 +1,182 @@
+
+* {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid blue;
+    color: #3e43e5;
+    font-size: 120%;
+}
+
+a {
+    style: none;
+}
+.right-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 4%;
+}
+
+
+#logo {
+    margin-left: 100%;
+    font-weight: bold;
+    margin-top: 18%;
+    margin-bottom: 22%;
+}
+
+.about {
+    margin-right: 10%;
+    margin-top: 3.5%;
+    margin-bottom: 3%;
+}
+
+.program {
+    margin-right: 10%;
+    margin-top: 3.5%;
+    margin-bottom: 3%;
+}
+
+.community {
+    margin-right: 10%;
+    margin-top: 3.5%;
+    margin-bottom: 3%;
+}
+
+.events {
+    margin-right: 10%;
+    margin-top: 3.5%;
+    margin-bottom: 3%;
+}
+
+.button {
+    margin: 0;
+    padding: 0;
+    height: 53%;
+    border: none;
+    background-color: transparent;
+}
+
+#button {
+    margin-left: 5%;
+    padding-top: 13%;
+    padding-bottom: 13%;
+    border: none;
+    background-color: transparent;
+    
+}
+
+/* need to fix formatting for form and main-content text to make it responsive */
+
+#main-content {
+    background-color: #ffdad5;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.left-side {
+    width: 50vw;
+}
+
+.heading {
+    margin-left: 15%;
+    margin-top: 15%;
+    width: 40vw;
+   
+}
+
+h1 {
+    color: #282c83;
+    font-size: 650%;
+    font-weight: bold;
+    margin-left: 6%;
+    margin-top: 6%;
+}
+
+.fun {
+    display: flex;
+    width: 55%;
+}
+
+.fun2 {
+    display: flex;
+    margin-top: -12%;
+    color: #69b985;
+    font-size: 100%;
+}
+
+.less-than {
+    margin-top: -12%;
+}
+
+.greater-than {
+    margin-top: -12%;
+}
+
+.description1 {
+    margin-left: 15%;
+    margin-top: 5%;
+    color: #282c83;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.form {
+    display: flex;
+    margin-bottom: 10%;
+}
+
+
+.left-button {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    height: 5vh;
+}
+
+#email {
+    color: #3e43e5;
+    width: 17vw;
+    height: 50%;
+    background-color: white;
+    font-size: 45%;
+}
+
+input[type="email"] {
+    border: none;
+    color: rgb(243, 231, 231);
+    font-size: 65%;
+}
+
+.no-style {
+    margin: 0;
+    padding: 0;
+    height: 53%;
+    border: none;
+    background-color: transparent;
+}
+
+.image-container {
+    width: 30%;
+}
+
+#form-button {
+    height: 5vh;
+    margin-right: 22vw;
+    margin-bottom: 2vw;
+}
+
+
+.right-side{
+    width: 50vw;
+    margin-top: -5vw;;
+}
+
+.graphic {
+    margin-top: 35%;
+}
