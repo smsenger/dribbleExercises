@@ -15,6 +15,7 @@
 a {
     style: none;
 }
+
 .right-nav {
     display: flex;
     justify-content: flex-end;

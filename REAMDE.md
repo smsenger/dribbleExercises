@@ -1,0 +1,1 @@
+This repository contains the completed ladyBug site plus the in-progress Otil site. These are exercises from dribble.
